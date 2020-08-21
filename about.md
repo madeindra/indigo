@@ -2,45 +2,13 @@
 title: About
 layout: page
 ---
+
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p><strong>Hi! Hello!</strong></p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Currently I'm working full-time as a Software Developer, mostly as a backend developer. Even though I'm always curious of tech-related things, I did not plan to work around technology and yet here I am.  For me, being a  developer means I need to keep learning about new things so that I won't be left behind. I was right and I was wrong, it's true that learning about a new technology make me a better developer but sometimes it's okay just to keep honing the tool that I already master to begin with.</p>
 
-<h2>Skills</h2>
+<p>I started my career as a Computer Science Lecturer, that was also when I started to realize that sharing my knowledge is one of the best thing I ever felt. I got to teach the younger generation and learn about a lot of things in the process. I've not teach any students these days, but I still want to keep sharing my knowledge through  <a href="https://youtube.com/madecanggih">Youtube</a> and <a href="https://github.com/madeindra">Github</a>. Leaving Academia Career could be a choice that I regret or not, only time will tell.</p>
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
-
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+<p>Being a software developer is not an easy thing to do for me, I was not a good at coding back then, I got much to learn.  But one thing I'm sure is I love being a software developer!</p>
