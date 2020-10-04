@@ -1,5 +1,5 @@
 ---
-title: Guide to Signal
+title: Guide to Signal Messenger
 layout: post
 date: '2020-02-23 07:00:00'
 tag:
@@ -22,10 +22,15 @@ Earlier this year I was tasked to help in rewriting an Indonesian-made chat app,
 
 ---
 
+For those who want to build their own secure chat app that support Android, iOS, and Desktop clients, Signal is what you are looking for. Edward Snowden himself recommended Signal on <a href="https://twitter.com/Snowden/status/986277159252750336">his Twitter</a>.  Follow this guide to start your journey on making your own signal chat messenger, but please do remember that this guide is meant for a starting point, to make your server even more secure, you need to do some hardening that meet your needs and that will not be covered by the guide.
+
+---
+
 What the guide contains?
 
 - Signal Server setup guide
 - Signal Android setup guide
+- Signal iOS setup guide
 - Signal Desktop setup guide
 - Signal dependency setup guide
 - AWS for Signal setup guide
