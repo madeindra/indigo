@@ -7,6 +7,7 @@ resume: false
 resume-external: true
 resume-url: 'https://google.com/?q=my+resume'
 url: 'https://madeindra.github.io'
+knowledge-url: 'https://madeindra.gitbook.io/knowledge/'
 permalink: '/:title/'
 disqus:
   shortname: madecanggih
@@ -33,6 +34,7 @@ pagination:
 projects: true
 about: true
 blog: true
+knowledge: true
 read-time: true
 show-tags: true
 related: true
