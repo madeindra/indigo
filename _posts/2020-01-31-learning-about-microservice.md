@@ -59,31 +59,55 @@ Ordering an item in the app goes like this:
 
 **Start: User confirm an order**
 
-1. Order Service fetches the Order Detail of (orderId 1), Order Service get (productId 1, quantity 10) detail.
-2. Order Service pass (orderId 1, productId 1, quantity 10) to Order Worker to create invoice and to check if the product is in stock.
-3. Order Worker sends a message (orderId 1, productId 1, quantity 10) to Exchange 1.
-4a,4. Exchange 1 received message (orderId 1, productId 1, quantity 10), as it is a Direct Exchange, it forwards the message to Subscribing Queue(s).
-5a. Financial Worker received a message (orderId 1, productId 1, quantity 10), then Financial Worker passes the message to Financial Service to be processed.
-5b. Warehouse Worker received a message (orderId 1, productId 1, quantity 10), then Warehouse Worker pass only (productId 1, quantity 10) to Warehouse Service to be checked.
-6a. Financial Service creates an Invoice based on the message (orderId 1, productId 1, quantity 10).
-6b. Warehouse Service prepares a query to check stock based on the productId 1.
-7a. Financial Service successfully created the Invoice on Financial Database.
-7b. Warehouse Service fetches stock from Warehouse Database.
-8a. Financial Service tells Financial Worker that it has created the Invoice.
-8b. Warehouse Service gets information (stock 50) and compares it to quantity 10, because (stock > quantity), the order can be processed, send (productId 1, quantity 10, inStock true) to Warehouse Worker.
-9. Warehouse Worker sends a message (productId 1, quantity 10, inStock true) to Financial Queue.
-10. Financial Worker receives a message (productId 1, quantity 10, inStock true) stored in Financial Queue.
-11. Financial Worker then passes the message to Financial Service to be processed.
-12. Financial Service updates the Invoice status.
-13. Financial Service tells Financial Worker that it has updated the Invoice.
-14. Financial Worker sends a message (productId 1, quantity 10, invoice true) to Exchange 2.
-15a, 15b. Exchange 2 received a message (productId 1, quantity 10, invoice true), as it is a Direct Exchange, it forwards the message to Subscribing Queue(s).
-16a. Order Worker received a message (productId 1, quantity 10, invoice true), then Order Worker passes the message to Order Service to be processed.
-16b. Warehouse Worker received a message (productId 1, quantity 10, invoice true), then Warehouse Worker passes the message to Warehouse Service to be processed.
-17a. Order Worker completes the user's check-out process.
-17b. Warehouse Service prepares a query to decrease the product's stock based on the message (productId 1, quantity 10, invoice true).
-18. Warehouse Service decreases the stock of the product in the Warehouse Database.
-19. Warehouse Service tells Warehouse Worker that it has updated the Stock.
+1: Order Service fetches the Order Detail of (orderId 1), Order Service get (productId 1, quantity 10) detail.
+
+2: Order Service pass (orderId 1, productId 1, quantity 10) to Order Worker to create invoice and to check if the product is in stock.
+
+3: Order Worker sends a message (orderId 1, productId 1, quantity 10) to Exchange 1.
+
+4a, 4b: Exchange 1 received message (orderId 1, productId 1, quantity 10), as it is a Direct Exchange, it forwards the message to Subscribing Queue(s).
+
+5a: Financial Worker received a message (orderId 1, productId 1, quantity 10), then Financial Worker passes the message to Financial Service to be processed.
+
+5b: Warehouse Worker received a message (orderId 1, productId 1, quantity 10), then Warehouse Worker pass only (productId 1, quantity 10) to Warehouse Service to be checked.
+
+6a: Financial Service creates an Invoice based on the message (orderId 1, productId 1, quantity 10).
+
+6b: Warehouse Service prepares a query to check stock based on the productId 1.
+
+7a: Financial Service successfully created the Invoice on Financial Database.
+
+7b: Warehouse Service fetches stock from Warehouse Database.
+
+8a: Financial Service tells Financial Worker that it has created the Invoice.
+
+8b: Warehouse Service gets information (stock 50) and compares it to quantity 10, because (stock > quantity), the order can be processed, send (productId 1, quantity 10, inStock true) to Warehouse Worker.
+
+9: Warehouse Worker sends a message (productId 1, quantity 10, inStock true) to Financial Queue.
+
+10: Financial Worker receives a message (productId 1, quantity 10, inStock true) stored in Financial Queue.
+
+11: Financial Worker then passes the message to Financial Service to be processed.
+
+12: Financial Service updates the Invoice status.
+
+13: Financial Service tells Financial Worker that it has updated the Invoice.
+
+14: Financial Worker sends a message (productId 1, quantity 10, invoice true) to Exchange 2.
+
+15a, 15b: Exchange 2 received a message (productId 1, quantity 10, invoice true), as it is a Direct Exchange, it forwards the message to Subscribing Queue(s).
+
+16a: Order Worker received a message (productId 1, quantity 10, invoice true), then Order Worker passes the message to Order Service to be processed.
+
+16b: Warehouse Worker received a message (productId 1, quantity 10, invoice true), then Warehouse Worker passes the message to Warehouse Service to be processed.
+
+17a: Order Worker completes the user's check-out process.
+
+17b: Warehouse Service prepares a query to decrease the product's stock based on the message (productId 1, quantity 10, invoice true).
+
+18: Warehouse Service decreases the stock of the product in the Warehouse Database.
+
+19: Warehouse Service tells Warehouse Worker that it has updated the Stock.
 
 **End: User ready to pay the order**
 
