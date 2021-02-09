@@ -1,7 +1,7 @@
 ---
 title: Lanjut Kuliah atau Kerja?
 layout: post
-date: '2020-10-31 07:00:00'
+date: '2020-05-27 07:00:00'
 image: assets/images/graduation.jpg
 headerImage: false
 tag:
