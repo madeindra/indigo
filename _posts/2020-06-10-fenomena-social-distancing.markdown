@@ -46,3 +46,5 @@ Hidup saja dengan fokus pada hal yang bisa kita lakukan. Kalau kamu merasa kesus
 ---
 
 Kalau kamu sudah selesai membaca ini. Sekarang, temukan kebahagiaan kamu dengan jalanmu sendiri. Berhenti membandingkan diri dan berhenti memenuhi tuntutan orang lain yang tidak masuk akal. Kamu adalah orang yang hebat!
+
+<span>Photo by <a href="https://unsplash.com/@andrewtneel?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Andrew Neel</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
