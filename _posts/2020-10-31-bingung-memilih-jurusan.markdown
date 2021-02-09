@@ -35,6 +35,8 @@ Semua info yang ada disini tolong disaring dahulu sesuai kondisi kamu ya.
 
 Pemilihan prodi tetap harus dipertimbangkan secara matang bersama keluargamu.
 
+Tulisan ini aku buat di tahun 2020, beberapa data dan ketentuan kemungkinan akan berbeda dengan tulisan ini.
+
 ## Tips Memilih Program Studi
 > Sistem Informasi?
 > 
@@ -127,7 +129,8 @@ Kalau sudah ketemu prodi yang kamu mau, bandingkan lagi dengan Prodi yang ada di
 
 **Dan jangan lupa, kamu harus pertimbangkan bersama keluarga kamu ya!**
 
-### Penutup
+---
+
 Jadi apa saja yang harus dipertimbangkan?
 
 1. Mulai dari daftar mimpi kamu
@@ -138,4 +141,4 @@ Jadi apa saja yang harus dipertimbangkan?
 
 Tentu kamu ga perlu menutup kemungkinan pengembangan skill di luar jam kuliah. Misalnya dari UKM atau Komunitas di dalam/luar kampus.
 
-<span>Photo by <a href="https://unsplash.com/@munjay?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Mwesigwa Joel</a> on <a href="https://unsplash.com/s/photos/school?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span> 
+<span>Photo by <a href="https://unsplash.com/@munjay?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Mwesigwa Joel</a> on <a href="https://unsplash.com/s/photos/school?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
