@@ -1,7 +1,7 @@
 ---
 title: Perlukah Ikut Bootcamp?
 layout: post
-date: '2021-01-01 07:00:00'
+date: '2021-01-06 09:00:00'
 headerImage: false
 tag:
 - blog
