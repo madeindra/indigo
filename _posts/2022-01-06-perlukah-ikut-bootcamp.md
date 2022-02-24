@@ -13,70 +13,67 @@ description: Apakah wajib ikut bootcamp? Atau bisa belajar otodidak hanya bermod
 
 Hai! Halo!
 
-Kamu tertarik ikut bootcamp? 
+Kalau kamu buka halaman ini, kemungkinan besar kamu lagi penasaran tentang seberapa penting ikut bootcamp.
 
-Tapi apakah bootcamp cocok buat kamu?
+Bootcamp-bootcamp yang sedang tren saat ini biasanya menawarkan pelatihan *skill* khusus yang sedang banyak *demand*nya, misalnya *programming*, *data science*, atau *design*. Karena *skill-skill* ini sedang banyak *demand*nya, otomatis sebagian besar orang yang tertarik buat ikut bootcamp adalah orang-orang yang punya rencana pindah karir, sisanya adalah orang-orang yang yang mau menambah skill atau sekedar menambah koneksi.
 
-Yuk bahas bootcamp sebentar!
+Sekarang pun penyedia bootcamp sudah makin beragam ya, tidak cuma satu atau dua bootcamp yang punya program pelatihan skill yang sama, pastinya ini bakal bikin kamu bingung mau memilih bootcamp yang mana.
 
-## Alasan Ikut Bootcamp
+Belum lagi *skill* yang ada di bootcamp sebenarnya bisa diakses secara gratis di platform seperti YouTube. Tambah bingung deh buat apa keluar duit buat ikut bootcamp.
 
-Alasan untuk ikut bootcamp biasanya adalah untuk berpindah karir atau hanya sekadar menambah ilmu, apakah bootcamp layak untuk dicoba? 
-
-Programming, data science, dan design adalah contoh skill-skill yang banyak ditawarkan melalui bootcamp. Bootcamp serupa semakin hari semakin banyak, padahal kalau kamu buka Youtube, cukup dengan beberapa kata kunci, kamu bisa belajar skill-skill itu secara gratis. Paling kesel dikit lihat iklan Youtube yang itu lagi itu lagi.
-
-Terus untuk apa keluar uang berjuta-juta untuk ikut bootcamp? Mari kita lihat hal apa saja yang bisa menjadi pertimbangan.
+Yuk, kita bahas tentang apa yang bisa kamu dapatkan kalau ikut bootcamp dan apakah bootcamp bisa memenuhi kebutuhanmu.
 
 ![Meme 1](https://madeindra.github.io/assets/memes/youtube-bootcamp.jpeg)
 
-## Cara Belajar
+## Belajar dengan Bimbingan
 
-Ada orang yang bisa belajar otodidak, ada juga orang yang sulit banget belajar kecuali ada paksaan.
+Ada orang yang bisa belajar otodidak, tapi ada juga orang yang butuh dibimbing selama belajar. Tidak ada yang salah.
 
-Di bootcamp, kamu akan mendapat mentor yang akan membimbing kamu, buat kamu yang sulit belajar mandiri, mentor ini akan jadi salah satu dorongan kamu untuk belajar. Tapi jangan berharap untuk dibimbing terus-menerus dalam bootcamp, kamu tetap harus bisa belajar secara mandiri.
+Nah selama bootcamp, biasanya kamu sebagai student akan diberikan seorang pembimbing belajar atau istilah kerennya Mentor. Buat kamu yang butuh bimbingan selama belajar, adanya mentor ini bakal jadi salah satu poin yang mendukung proses belajarmu. 
 
-Di bootcamp kamu akan diarahkan untuk belajar skill yang esensial. Ini adalah salah satu poin plus yang kamu dapat dari bootcamp, karena dari sekian banyak tutorial yang kamu lihat di internet, tanpa pengetahuan dasar, kamu bakal tersesat, atau lebih parah lagi kamu bisa terjebak di *tutorial hell.*
+Biarpun kamu bisa belajar otodidak, adanya mentor menjadi salah satu poin penting yang susah didapatkan di platform seperti YouTube. 
 
-*Let’s say* kamu mau jadi frontend developer, karena kamu tau *framework* yang sering dipakai adalah React, kamu buka Youtube dan mencari tutorial React. 
+Kalau kita analogikan proses belajar itu adalah proses membangun rumah, sebelum dinding dibuat, pasti ada proses pembuatan pondasi bangunan. Jangan sampai kita belajar membuat dinding yang kuat, tapi lupa belajar membuat pondasi yang kuat. 
 
-Setelah menonton beberapa tutorial orang India tentang React, kamu mendengar banyak istilah baru. Javascript? HTML? CSS?
 
-*Oh no!* Ternyata banyak yang harus dipelajari sebelum belajar React ya?
+Seorang mentor bisa menunjukkan kamu skill dasar apa yang penting untuk dipelajari sebagai pondasi dan apa yang bisa dipelajari lebih jauh setelah pondasimu kuat. Hal ini sangat penting terutama buat kamu yang baru belajar skill tersebut, karena tanpa arahan itu, kamu bisa terjebak di *tutorial hell* (belajar terus tapi tidak berani untuk membuat sesuatu). Bootcamp juga punya kurikulum khusus yang bisa jadi peta belajarmu *from zero to hero*.
 
-Yup, bootcamp biasanya menawarkan paket lengkap belajar dari awal hingga akhir.
+Nantinya ketika kamu belajar membuat dinding yang kuat, mungkin kamu bakal bertanya "Kenapa susunan batu bata untuk membuat dinding itu tidak lurus?".
+
+Nah momen seperti ini sering kamu temui ketika belajar, pasti ada titik dimana kamu tidak langsung paham tentang materi yang dipelajari. Mentormu bisa membantu kamu karena adanya mentor memungkinkan kita buat berinteraksi dua arah secara langsung. Mentormu bukan cuma akan menjawab pertanyaanmu, tapi juga bisa memberikan *best-practice* dalam penerapan skill itu. Satu pertanyaan bisa menjadi diskusi dan pastinya kamu bakal bikin kamu tau lebih banyak.
 
 ![Meme 2](https://madeindra.github.io/assets/memes/skip-react.jpg)
 
-## Cari Ilmu atau Cari Kerja
+## Partner Bootcamp
 
-Banyak orang ikut bootcamp karena ingin menambah skill, entah karena ilmu kuliah belum cukup atau ingin belajar lebih intens. 
+Kalau kamu memilih bootcamp untuk cari kerja atau pindah karir, kamu mungkin bertanya "Emangnya ada perusahaan yang mau terima lulusan bootcamp?".
 
-Betul! Kamu bisa ikut bootcamp untuk meningkatkan skill yang kamu punya. Apalagi kalau kamu dapat mentor yang ahli, kamu bakal dapat tips & trick yang ada di dunia kerja. Jadi gak perlu *trial & error* lagi.
+Tentu aja ada, tapi kalau kamu ikut bootcamp kamu bisa dapat benefit penyaluran kerja. Sekarang sudah banyak bootcamp yang sudah bekerja sama dengan perusahaan-perusahaan sebagai partner, dan setelah lulus bootcamp nanti, kamu bisa disalurkan ke partner-partner tersebut. 
 
-Selain untuk ilmu, bootcamp bisa jadi salah satu opsi buat kamu yang ingin pindah karir.
+Ini adalah satu poin penting yang gak bisa digantikan dengan platform kursus atau platform belajar gratis. 
 
-Memangnya ada perusahaan yang mau terima lulusan bootcamp? 
-
-Salah satu benefit bootcamp adalah penyaluran kerja. Bootcamp biasanya sudah bekerja sama dengan perusahaan-perusahaan dan kamu akan disalurkan oleh bootcamp, ini bakal sangat memudahkan kamu dibanding mencari kerja sendiri, kan?
-
-Nah, biarpun ada bootcamp yang menawarkan penyaluran kerja, kamu tetap harus mencari tau tentang berapa lama prosesnya dan apakah penyaluran kerjanya ke perusahaan yang sesuai keinginanmu. 
+Supaya kamu bisa menikmati benefit ini, pastikan bootcamp yang kamu incar menawarkan program penyaluran kerja, lebih bagus lagi kalau bootcampnya bekerjasama dengan perusahaan impian kamu.
 
 ![Meme 3](https://madeindra.github.io/assets/memes/success-bootcamp.jpeg)
 
-## Belajar Otodidak
+## Bootcamp itu Wajib?
 
-Jadi, apakah wajib ikut bootcamp? Nope!
+Oke sekarang waktunya kita jawab pertanyaan ini.
 
-Dari sekian banyak benefitnya, tentu ada harga yang tidak murah.
+Ikut bootcamp tentu bakal memberikan kamu banyak keuntungan, mulai dari dapat teman baru, bisa dibimbing belajar, tau tentang best-practice yang dipakai di industri, bahkan bisa disalurkan kerja.
 
-Apa ada cara lain selain bootcamp? Ada!
+Tapi di balik itu pasti ada harga yang harus dibayar. Ini bukan cuma tentang biaya, tapi juga komitmen, dengna ikut bootcamp kamu dituntut untuk bisa mengikuti bootcamp dari awal sampai akhir.
 
-Gabung komunitas atau cari teman yang bisa jadi mentor. 
+Bisa jadi kelas bootcampnya berlangsung 6 kali seminggu selama 3 bulan, artinya selama 3 bulan penuh kamu harus belajar intens. Belajar se-intens ini belum tentu cocok untuk semua orang, tapi tidak semua bootcamp se-intens itu, ada yang cuma 3 kali seminggu dan kelasnya berlangsung di luar jam kerja, jadi bakal sangat membantu buat yang bootcamp sambil bekerja *full-time*.
 
-Komunitas bisa jadi salah satu jalan untuk cari tau skill-skill apa yang perlu kamu pelajari, kamu bisa cari komunitas ini di Reddit, Facebook, Telegram, atau Meetup. Ada juga website khusus yang bisa kamu kunjungi seperti Github atau Behance.
+Tapi kalau misalnya kamu masih tidak tertarik untuk ikut bootcamp kamu mungkin bertanya-tanya "Apa ada alternatif lain selain bootcamp?"/
 
-Kalau kamu mau belajarmu lebih efisien, hal yang harus kamu tau di awal adalah goal dan bagaimana mencapai goal itu. Setelah itu, kamu bisa mencari tutorial sesuai goal itu, entah itu di Youtube, Udemy, atau platform lain.
+Jawabannya ada.
 
-Jangan lupa banyak latihan & poles akun LinkedIn, mau ikut bootcamp atau tidak, kalau hasil karyamu bagus, pasti banyak yang akan tertarik merekrut kamu.
+Kamu masih bisa lewat platform gratisan, tapi untuk memastikan kamu bisa belajar lebih banyak dan tau *best-practice* di industri, kamu bisa gabung komunitas skill *terkait*. Salah satunya kamu bisa gabung ke komunitas di platform Meetup secara gratis, bakal ada webinar rutin yang bakal membahas tentang penerapan skill di dunia kerja. Kamu juga bisa gabung ke komunitas yang ada di Telegram, Facebook, ataupun Reddit untuk berdiskusi dengan sesama anggota komunitas. Kalau kamu tertarik untuk dapat mentor, kamu bisa mencari mentor lewat ADPList atau mengontak calon mentor via LinkedIn.
+
+Jangan takut untuk mencoba menerapkan skill yang sudah kamu pelajari, buat proyek sekecil apapun dan pamerkan hasil kerjamu dia platfom yang sesuai bidangmu, misalnya hasil karya Programming bisa diupload ke Github atau hasil karya Design bisa diupload ke Behance. Hasil karyamu ini juga nantinya bisa kamu jadikan portofolio yang membantu kamu mencari kerja lho!
+
+Yang terpenting ketika belajar adalah fokus dan komitmen pada tujuanmu, kalau kamu ingin belajar dari nol, pastikan kamu sudah tau poin-poin apa yang perlu dipelajari untuk mencapai tujuanmu.
 
 ![Meme 3](https://madeindra.github.io/assets/memes/distracted-bootcamp.jpeg)
