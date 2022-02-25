@@ -91,7 +91,11 @@ Salah satunya kamu bisa gabung ke komunitas di platform Meetup secara gratis, ba
 
 Kalau kamu tertarik untuk dapat mentor, kamu bisa mencari mentor lewat ADPList atau mengontak calon mentor via LinkedIn.
 
-Jangan takut untuk mencoba menerapkan skill yang sudah kamu pelajari, buat proyek sekecil apapun dan pamerkan hasil kerjamu dia platfom yang sesuai bidangmu.
+Kalau fokusmu adalah pindah karir, tanpa bootcamp kamu tetap bisa kok. Banyak perusahaan sekarang sudah punya program *employee get employee*.
+
+Kalau kamu kenal dengan seseorang yang kerja di perusahaan yang kamu incar atau bahkan mentormu sendiri, dia bisa membantu mengajukan kamu ke perusahaannya.
+
+Apapun fokusmu dalam belajar, jangan takut untuk mencoba menerapkan skill yang sudah kamu pelajari, buat proyek sekecil apapun dan pamerkan hasil kerjamu dia platfom yang sesuai bidangmu.
 
 Misalnya hasil karya Programming bisa diupload ke Github atau hasil karya Design bisa diupload ke Behance. Hasil karyamu ini juga nantinya bisa kamu jadikan portofolio yang membantu kamu mencari kerja lho!
 
