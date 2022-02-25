@@ -17,7 +17,7 @@ Kalau kamu buka halaman ini, kemungkinan besar kamu lagi penasaran tentang seber
 
 Bootcamp-bootcamp yang sedang tren saat ini biasanya menawarkan pelatihan *skill* khusus yang sedang banyak *demand*nya, misalnya *programming*, *data science*, atau *design*.
 
-Karena *skill-skill* ini sedang banyak *demand*nya, otomatis sebagian besar orang yang tertarik buat ikut bootcamp adalah orang-orang yang punya rencana pindah karir, sisanya adalah orang-orang yang yang mau menambah skill atau sekedar menambah koneksi.
+Karena *skill-skill* ini sedang banyak *demand*nya, otomatis sebagian besar orang yang tertarik buat ikut bootcamp adalah orang-orang yang punya rencana pindah karir, sisanya adalah orang-orang yang mau menambah skill atau sekedar menambah koneksi.
 
 Sekarang pun penyedia bootcamp sudah makin beragam ya, tidak cuma satu atau dua bootcamp yang punya program pelatihan skill yang sama, pastinya ini bakal bikin kamu bingung mau memilih bootcamp yang mana.
 
@@ -43,7 +43,9 @@ Jangan sampai kita belajar membuat dinding yang kuat, tapi lupa belajar membuat 
 
 Seorang mentor bisa menunjukkan kamu skill dasar apa yang penting untuk dipelajari sebagai pondasi dan apa yang bisa dipelajari lebih jauh setelah pondasimu kuat.
 
-Hal ini sangat penting terutama buat kamu yang baru belajar skill tersebut, karena tanpa arahan itu, kamu bisa terjebak di *tutorial hell* (belajar terus tapi tidak berani untuk membuat sesuatu). Bootcamp juga punya kurikulum khusus yang bisa jadi peta belajarmu *from zero to hero*.
+Hal ini sangat penting terutama buat kamu yang baru belajar skill tersebut, karena tanpa arahan itu, kamu bisa terjebak di *tutorial hell* (belajar terus tapi tidak berani untuk membuat sesuatu). 
+
+Bootcamp juga punya kurikulum khusus yang bisa jadi peta belajarmu *from zero to hero*.
 
 Nantinya ketika kamu belajar membuat dinding yang kuat, mungkin kamu bakal bertanya "Kenapa susunan batu bata untuk membuat dinding itu tidak lurus?".
 
@@ -51,7 +53,7 @@ Nah momen seperti ini sering kamu temui ketika belajar, pasti ada titik dimana k
 
 Mentormu bukan cuma akan menjawab pertanyaanmu, tapi juga bisa memberikan *best-practice* dalam penerapan skill itu.
 
-Satu pertanyaan bisa menjadi diskusi dan pastinya kamu bakal bikin kamu tau lebih banyak.
+Satu pertanyaan bisa menjadi diskusi dan pastinya bakal bikin kamu tau lebih banyak.
 
 ![Meme 2](https://madeindra.github.io/assets/memes/skip-react.jpg)
 
@@ -75,11 +77,11 @@ Oke sekarang waktunya kita jawab pertanyaan ini.
 
 Ikut bootcamp tentu bakal memberikan kamu banyak keuntungan, mulai dari dapat teman baru, bisa dibimbing belajar, tau tentang best-practice yang dipakai di industri, bahkan bisa disalurkan kerja.
 
-Tapi di balik itu pasti ada harga yang harus dibayar. Ini bukan cuma tentang biaya, tapi juga komitmen, dengna ikut bootcamp kamu dituntut untuk bisa mengikuti bootcamp dari awal sampai akhir.
+Tapi di balik itu pasti ada harga yang harus dibayar. Ini bukan cuma tentang biaya, tapi juga komitmen, dengan ikut bootcamp kamu dituntut untuk bisa mengikuti bootcamp dari awal sampai akhir.
 
 Bisa jadi kelas bootcampnya berlangsung 6 kali seminggu selama 3 bulan, artinya selama 3 bulan penuh kamu harus belajar intens. Belajar se-intens ini belum tentu cocok untuk semua orang. 
 
-Tapi tidak semua bootcamp se-intens itu, ada yang cuma 3 kali seminggu dan kelasnya berlangsung di luar jam kerja, jadi bakal sangat membantu buat yang bootcamp sambil bekerja *full-time*.
+Syukurnya tidak semua bootcamp se-intens itu, ada yang cuma 3 kali seminggu dan kelasnya berlangsung di luar jam kerja, jadi bakal sangat membantu buat yang bootcamp sambil bekerja *full-time*.
 
 Tapi kalau misalnya kamu masih tidak tertarik untuk ikut bootcamp kamu mungkin bertanya-tanya "Apa ada alternatif lain selain bootcamp?"/
 
@@ -87,13 +89,13 @@ Jawabannya ada.
 
 Kamu masih bisa lewat platform gratisan, tapi untuk memastikan kamu bisa belajar lebih banyak dan tau *best-practice* di industri, kamu bisa gabung komunitas skill *terkait*.
 
-Salah satunya kamu bisa gabung ke komunitas di platform Meetup secara gratis, bakal ada webinar rutin yang bakal membahas tentang penerapan skill di dunia kerja. Kamu juga bisa gabung ke komunitas yang ada di Telegram, Facebook, ataupun Reddit untuk berdiskusi dengan sesama anggota komunitas.
+Salah satunya kamu bisa gabung ke komunitas di platform Meetup secara gratis, bakal ada webinar rutin yang membahas tentang penerapan skill di dunia kerja. Kamu juga bisa gabung ke komunitas yang ada di Telegram, Facebook, ataupun Reddit untuk berdiskusi dengan sesama anggota komunitas.
 
 Kalau kamu tertarik untuk dapat mentor, kamu bisa mencari mentor lewat ADPList atau mengontak calon mentor via LinkedIn.
 
 Kalau fokusmu adalah pindah karir, tanpa bootcamp kamu tetap bisa kok. Banyak perusahaan sekarang sudah punya program *employee get employee*.
 
-Kalau kamu kenal dengan seseorang yang kerja di perusahaan yang kamu incar atau bahkan mentormu sendiri, dia bisa membantu mengajukan kamu ke perusahaannya.
+Kalau kamu kenal dengan seseorang yang kerja di perusahaan yang kamu incar atau bahkan orang itu mentormu sendiri, dia bisa membantu mengajukan kamu ke perusahaannya.
 
 Apapun fokusmu dalam belajar, jangan takut untuk mencoba menerapkan skill yang sudah kamu pelajari, buat proyek sekecil apapun dan pamerkan hasil kerjamu dia platfom yang sesuai bidangmu.
 
