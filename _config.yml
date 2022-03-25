@@ -1,8 +1,9 @@
-name: Made Indra
+title: Made Indra
 bio: Learning is my lifelong mission
 description: Shower Thought
 external-image: false
 picture: assets/images/profile.jpg
+dark-theme: true
 resume: false
 resume-external: true
 resume-url: 'https://google.com/?q=my+resume'
@@ -17,6 +18,7 @@ disqus:
 youtube: madecanggih
 github: madeindra
 email: madeindra@pm.me
+linkedin: mdeindra
 authors:
   madeindra:
     name: Made Indra
