@@ -36,7 +36,7 @@ pagination:
 projects: true
 about: true
 blog: true
-knowledge: true
+knowledge: false
 read-time: true
 show-tags: true
 related: true
