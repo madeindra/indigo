@@ -1,7 +1,19 @@
 <div class="social-links">
+    {% if site.youtube %}
+        <a class="link" aria-label="youtube" data-title="youtube.com/{{ site.youtube }}" href="https://youtube.com/{{ site.youtube }}" target="_blank" rel="noopener">
+            <svg class="icon icon-youtube"><use xlink:href="#icon-youtube"></use></svg>
+        </a>
+    {% endif %}
+
     {% if site.facebook %}
         <a class="link" aria-label="facebook"  data-title="facebook.com/{{ site.facebook }}" href="https://facebook.com/{{ site.facebook }}" target="_blank" rel="noopener">
             <svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg>
+        </a>
+    {% endif %}
+
+    {% if site.instagram %}
+        <a class="link" aria-label="instagram" data-title="instagram.com/{{ site.instagram }}" href="https://instagram.com/{{ site.instagram }}" target="_blank" rel="noopener">
+            <svg class="icon icon-instagram"><use xlink:href="#icon-instagram"></use></svg>
         </a>
     {% endif %}
 
@@ -17,21 +29,9 @@
         </a>
     {% endif %}
 
-    {% if site.instagram %}
-        <a class="link" aria-label="instagram" data-title="instagram.com/{{ site.instagram }}" href="https://instagram.com/{{ site.instagram }}" target="_blank" rel="noopener">
-            <svg class="icon icon-instagram"><use xlink:href="#icon-instagram"></use></svg>
-        </a>
-    {% endif %}
-
     {% if site.pinterest %}
         <a class="link" aria-label="pinterest" data-title="pinterest.com/{{ site.pinterest }}" href="https://pinterest.com/{{ site.pinterest }}" target="_blank" rel="noopener">
             <svg class="icon icon-pinterest"><use xlink:href="#icon-pinterest"></use></svg>
-        </a>
-    {% endif %}
-
-    {% if site.youtube %}
-        <a class="link" aria-label="youtube" data-title="youtube.com/{{ site.youtube }}" href="https://youtube.com/{{ site.youtube }}" target="_blank" rel="noopener">
-            <svg class="icon icon-youtube"><use xlink:href="#icon-youtube"></use></svg>
         </a>
     {% endif %}
 
