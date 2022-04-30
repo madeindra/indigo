@@ -101,6 +101,12 @@
         </a>
     {% endif %}
 
+    {% if site.adplist %}
+        <a class="link" aria-label="adplist" data-title="{{ site.adplist }}" href="https://adplist.org/mentors/{{ site.adplist }}"  target="_blank" rel="noopener">
+            <svg class="icon icon-adplist"><use xlink:href="#icon-adplist"></use></svg>
+        </a>
+    {% endif %}
+
     {% if site.email %}
         <a class="link" aria-label="email" data-title="{{ site.email }}" href="mailto:{{ site.email }}">
             <svg class="icon icon-mail"><use xlink:href="#icon-mail"></use></svg>
