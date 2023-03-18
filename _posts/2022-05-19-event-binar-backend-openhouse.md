@@ -1,5 +1,5 @@
 ---
-title: [Event] Binar Open House Backend Engineering
+title: Event - Binar Open House Backend Engineering
 layout: post
 date: '2022-05-19 09:00:00'
 headerImage: false
@@ -8,7 +8,8 @@ tag:
 - bootcamp
 category: blog
 author: madeindra
-description: Kepikiran buat switch career menjadi Backend Developer? Atau malah baru tau kalau ada pekerjaan yang namanya Backend Developer? 
+description: Kepikiran buat switch career menjadi Backend Developer? Atau malah baru
+  tau kalau ada pekerjaan yang namanya Backend Developer?
 ---
 
 Hai! Halo!
@@ -17,6 +18,6 @@ Kepikiran buat switch career menjadi Backend Developer? Atau malah baru tau kala
 
 Hari Kamis tanggal 17 Mei 2022, Binar Academy dan saya bakal bahas detail tentang Backend mulai dari alasan kenapa kamu harus tau tentang Backend sampai kesempatan untuk mengembangkan karir sebagai Backend Developer.
 
-Yuk daftar di link ini! https://lnkd.in/dMjjA9W3
+Yuk daftar di [link ini](https://us02web.zoom.us/meeting/register/tZcsfu-rrTIvH9ZpSlYdacJiB4ikCNCLxSBX)!
 
 ![Event Promo](https://madeindra.github.io/assets/images/event-binar-backend.jpeg)
