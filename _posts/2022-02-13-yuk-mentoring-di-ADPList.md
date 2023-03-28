@@ -5,7 +5,7 @@ date: '2022-02-13 09:00:00'
 headerImage: false
 tag:
 - blog
-- mentor
+- mentoring
 category: blog
 author: madeindra
 description: Mau tau seputar Software Development atau bingung mau mulai belajar darimana? Ini dia salah satu jalan keluarnya!
