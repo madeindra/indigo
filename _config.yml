@@ -2,16 +2,16 @@ title: Made Indra
 bio: Friendly Neighborhood Software Engineer
 description: Shower Thought
 external-image: false
-picture: assets/images/profile.jpg
-# your site color theme, true for dark theme, 
+picture: assets/images/profile.webp
+# your site color theme, true for dark theme,
 # false to light theme, auto to switch with system.
 dark-theme: auto
 resume: false
 resume-external: true
-resume-url: 'https://google.com/?q=my+resume'
-url: 'https://madeindra.github.io'
-knowledge-url: 'https://madeindra.gitbook.io/knowledge/'
-permalink: '/:title/'
+resume-url: "https://google.com/?q=my+resume"
+url: "https://madeindra.github.io"
+knowledge-url: "https://madeindra.gitbook.io/knowledge/"
+permalink: "/:title/"
 disqus:
   shortname: madecanggih
   categories:
@@ -29,15 +29,15 @@ authors:
     name: Made Indra
     bio: Friendly Neighborhood Software Engineer
     external-image: false
-    picture: assets/images/profile.jpg
+    picture: assets/images/profile.webp
     twitter: mdeindra
 width: normal
 pagination:
   enabled: false
   sort_reverse: true
-  title: ':title'
+  title: ":title"
   per_page: 5
-  permalink: '/:num/'
+  permalink: "/:num/"
 projects: true
 about: true
 blog: true
@@ -51,7 +51,7 @@ show-author: true
 animation: true
 defaults:
   - scope:
-      path: ''
+      path: ""
       layout: post
     values:
       hidden: false
@@ -63,7 +63,7 @@ plugins:
   - jekyll-admin
   - jekyll-paginate-v2
 jekyll-mentions:
-  base_url: 'https://github.com'
+  base_url: "https://github.com"
 compress_html:
   ignore:
     envs:
