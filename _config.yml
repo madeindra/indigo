@@ -17,20 +17,20 @@ disqus:
   categories:
     - blog
     - project
-youtube: madecanggih
-instagram: madecanggih
-twitter: madecanggih
+# youtube: madecanggih
+# instagram: madecanggih
+# twitter: madecanggih
 github: madeindra
 email: madeindra@pm.me
 linkedin: mdeindra
-adplist: made-indra
+# adplist: made-indra
 authors:
   madeindra:
     name: Made Indra
-    bio: Friendly Neighborhood Software Engineer
+    bio: Software Engineer
     external-image: false
     picture: assets/images/profile.webp
-    twitter: mdeindra
+    # twitter: mdeindra
 width: normal
 pagination:
   enabled: false
